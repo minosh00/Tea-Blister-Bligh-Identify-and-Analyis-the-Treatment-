@@ -25,5 +25,5 @@ If you need access to the dataset or the pre-trained CNN model, please feel free
 
 
 ## License
-This project is licensed under the .........? License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the BSL-1.0 license License - see the [LICENSE.md](LICENSE.md) file for details.
 
