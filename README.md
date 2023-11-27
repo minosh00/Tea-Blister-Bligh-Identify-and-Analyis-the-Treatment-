@@ -18,6 +18,10 @@ This project aims to identify and analyze tea leaves, specifically focusing on d
 ## Contact
 For any questions or feedback, please contact Minosh Mantha via email at minoshimantha00@gmail.com.
 
+## Dataset and CNN Model
+If you need access to the dataset or the pre-trained CNN model, please feel free to contact  at minoshimantha00@gmail.com.
+
+
 ## License
-This project is licensed under the XYZ License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the .........? License - see the [LICENSE.md](LICENSE.md) file for details.
 
