@@ -2,7 +2,7 @@
 
 ## Overview
 
-- **4th Year Research Project SLIIT:** 
+## 4th Year Research Project SLIIT
 This project aims to identify and analyze tea leaves, specifically focusing on detecting the presence of blister blight. The process involves using a Mask R-CNN model to segment tea leaves and applying K-Means clustering to analyze the damage percentage accurately.
 
 ## Features
